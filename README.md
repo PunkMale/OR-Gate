@@ -1,5 +1,5 @@
 # OR-Gate
-Official PyTorch implementation of the paper "Robust Training for Speaker Verification against Noisy Labels" in INTERSPEECH 2023.
+Official PyTorch implementation of the paper "[Robust Training for Speaker Verification against Noisy Labels](https://arxiv.org/abs/2211.12080v2)" in INTERSPEECH 2023.
 
 ![image](images/network.png)
 
