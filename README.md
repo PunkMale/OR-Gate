@@ -1,5 +1,5 @@
 # OR-Gate
-Official PyTorch implementation of the paper "[Robust Training for Speaker Verification against Noisy Labels](https://arxiv.org/abs/2211.12080v2)" in INTERSPEECH 2023.
+Official PyTorch implementation of the paper "[Robust Training for Speaker Verification against Noisy Labels](https://www.isca-speech.org/archive/interspeech_2023/fang23_interspeech.html)" in INTERSPEECH 2023.
 
 ![image](images/network.png)
 
@@ -34,4 +34,20 @@ VoxCeleb 2 (EERs):
 | **OR-Gate** | 1.64 | 1.65 | 1.62 | 1.67 | 1.72 | 1.97 |
 
 ## Acknowledge
-* [Lantian Li/Sunine](https://gitlab.com/csltstu/sunine)
+This code is based on [Lantian Li/Sunine](https://gitlab.com/csltstu/sunine).
+
+## Reference
+```text
+@inproceedings{fang23_interspeech,
+  author={Zhihua Fang and Liang He and Hanhan Ma and Xiaochen Guo and Lin Li},
+  title={{Robust Training for Speaker Verification against Noisy Labels}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={3192--3196},
+  doi={10.21437/Interspeech.2023-452}
+}
+```
+
+## Contact
+* E-mail: fangzhihua@stu.xju.edu.cn
+* Wechat: PunkMale
